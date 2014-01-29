@@ -1,0 +1,4 @@
+dirConf = [
+	'/Example',
+	'/Example2'
+	]
